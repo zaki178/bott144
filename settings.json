@@ -1,12 +1,12 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
-	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"auto_welcome_msg": false,
+	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "62895376867500",
@@ -18,5 +18,5 @@
 	"thumbnail":"Resize_20220124_151140_0235.jpg",
 	"fakethumb":"Resize_20220124_151442_2820.jpg", 
 	"donasi":"donasi.jpg",
-	"fake": " 「  AABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+	"fake": " 「  ABOT  」\nCreated By ᴹᴿ᭄ zaki ×፝֟͜×"
 }
