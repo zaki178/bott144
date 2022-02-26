@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/zaki178/Haruka-1/blob/v4/settings/bg%20awal.jpg" alt="HARUKA BOT" height = "150" width="150"/>
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
