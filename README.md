@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zaki178/Alphab0t14.1/blob/14.1/image/Resize_20220124_151442_2820.jpg" alt="HARUKA BOT" height = "150" width="150"/>
+<img src="https://github.com/zaki178/bott144/blob/14.1/image/Compress_20211228_185543_3373.jpg" alt="HARUKA BOT" height = "150" width="150"/>
 
 # ```SELF-BOT```
 <p align="center">
