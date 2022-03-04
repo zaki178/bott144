@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/YDYS80p/zero.jpg" />
+<img src="https://telegra.ph/file/1c4225ad544831d3d67e9.jpg" />
 </p>
 <p align="center">
 <img src="https://github.com/zaki178/bott144/blob/14.1/image/Compress_20211228_185543_3373.jpg" alt="HARUKA BOT" height = "150" width="150"/>
